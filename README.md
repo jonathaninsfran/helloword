@@ -1,5 +1,5 @@
 # helloword
 
-Esse é o meu primeiro código no github.
+Esse é o meu primeiro código no JS.
 
 by Jonathan Insfran
